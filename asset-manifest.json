@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Magali-Garcia-Nieto-CV/static/css/main.cb5f0eca.css",
+    "main.js": "/Magali-Garcia-Nieto-CV/static/js/main.24d94a04.js",
+    "static/js/787.74842a76.chunk.js": "/Magali-Garcia-Nieto-CV/static/js/787.74842a76.chunk.js",
+    "static/media/RenderA.jpg": "/Magali-Garcia-Nieto-CV/static/media/RenderA.c7f87c2a8a20cbfa49ff.jpg",
+    "static/media/RenderD.jpg": "/Magali-Garcia-Nieto-CV/static/media/RenderD.ab371284fcd93e0d8518.jpg",
+    "static/media/RenderB.jpg": "/Magali-Garcia-Nieto-CV/static/media/RenderB.56a2204067b8f9a9613d.jpg",
+    "static/media/RenderC.jpg": "/Magali-Garcia-Nieto-CV/static/media/RenderC.1e50a420ef56a71df7c0.jpg",
+    "static/media/Work4.png": "/Magali-Garcia-Nieto-CV/static/media/Work4.c24239326ab273d559e8.png",
+    "static/media/Work2.png": "/Magali-Garcia-Nieto-CV/static/media/Work2.5ea460b1c54e49026b71.png",
+    "static/media/Work3.png": "/Magali-Garcia-Nieto-CV/static/media/Work3.8108bab6bb069d6fda59.png",
+    "static/media/Work5.png": "/Magali-Garcia-Nieto-CV/static/media/Work5.cea227a86719cb1b1e89.png",
+    "static/media/Work6.png": "/Magali-Garcia-Nieto-CV/static/media/Work6.afd7e2153a2bdb51c085.png",
+    "static/media/Work1.png": "/Magali-Garcia-Nieto-CV/static/media/Work1.bf7056d9fe3c9000b26b.png",
+    "static/media/Plano1.jpg": "/Magali-Garcia-Nieto-CV/static/media/Plano1.48c91a26642ab2950e46.jpg",
+    "static/media/Render3.jpg": "/Magali-Garcia-Nieto-CV/static/media/Render3.5fda45fb1aa162f39213.jpg",
+    "static/media/Render1.jpg": "/Magali-Garcia-Nieto-CV/static/media/Render1.bb1d697bce67111a8965.jpg",
+    "static/media/Render2.jpg": "/Magali-Garcia-Nieto-CV/static/media/Render2.61e4f01c27d27d1e3cf5.jpg",
+    "static/media/Render4.jpg": "/Magali-Garcia-Nieto-CV/static/media/Render4.85804c5f15e7444ca43a.jpg",
+    "static/media/Plano2.jpg": "/Magali-Garcia-Nieto-CV/static/media/Plano2.b7b400cf83c15d776969.jpg",
+    "static/media/Plano3.jpg": "/Magali-Garcia-Nieto-CV/static/media/Plano3.4805c8e4781f993d0a30.jpg",
+    "static/media/Plano4.jpg": "/Magali-Garcia-Nieto-CV/static/media/Plano4.eb8629d2320b64573af6.jpg",
+    "static/media/Magalí.png": "/Magali-Garcia-Nieto-CV/static/media/Magalí.22295d4f9b53e6bb4fc9.png",
+    "index.html": "/Magali-Garcia-Nieto-CV/index.html",
+    "main.cb5f0eca.css.map": "/Magali-Garcia-Nieto-CV/static/css/main.cb5f0eca.css.map",
+    "main.24d94a04.js.map": "/Magali-Garcia-Nieto-CV/static/js/main.24d94a04.js.map",
+    "787.74842a76.chunk.js.map": "/Magali-Garcia-Nieto-CV/static/js/787.74842a76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb5f0eca.css",
+    "static/js/main.24d94a04.js"
+  ]
+}
