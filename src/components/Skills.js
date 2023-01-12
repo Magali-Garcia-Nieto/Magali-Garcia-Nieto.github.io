@@ -20,7 +20,7 @@ function Skills (props) {
                     <div className='margin-bottom'></div>
                     <h3 style={{color:"#006064"}}>{props.coderTitle}</h3>
                     <div className='margin-bottom'></div>
-                        <p> HTML ‧ Javascript ‧ CSS ‧ Bootstrap ‧ jQuery ‧ Node ‧ Express ‧ APIs ‧ MongoDB ‧ React </p>
+                        <p> HTML ‧ Javascript ‧ CSS ‧ Bootstrap ‧ jQuery ‧ Node ‧ Express ‧ APIs ‧ MongoDB ‧ React ‧ Git ‧ GitHub</p>
                 </Col>
                 <Col sm={12} md={12} lg={3}>
                     <FontAwesomeIcon icon={faPenRuler} className="fa-6x skill-icon"/>
