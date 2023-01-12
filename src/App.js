@@ -9,7 +9,7 @@ import Education from"./components/Education";
 
 function App() {
   return (
-  <Router>
+  <Router basename={process.env.PUBLIC_URL || ''}>
         <>
           <Routes>
             <Route exact path="/" element={<Home/>} />
