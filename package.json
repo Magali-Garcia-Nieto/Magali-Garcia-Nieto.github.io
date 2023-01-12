@@ -1,8 +1,9 @@
 {
+  "homepage": "https://magali-garcia-nieto.github.io",
   "name": "magui-cv",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://magali-garcia-nieto.github.io",
+  
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
     "@fortawesome/free-brands-svg-icons": "^6.2.1",
