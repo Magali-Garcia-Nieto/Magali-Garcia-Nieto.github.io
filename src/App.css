@@ -1,0 +1,189 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  text-align: center;
+
+}
+
+h1,h2,h3,h4,h5,h6 {
+  font-family: 'Montserrat', sans-serif;
+  height: 1.5;
+  color: #006064;
+  font-weight: bold;
+}
+
+h3 {
+  color: #006064;
+}
+
+p {
+  color: #006064;
+}
+
+
+
+#home {
+  position: relative;
+  min-height: 100vh;
+}
+
+#personal-info {
+  position: relative;
+  text-align: left;
+}
+
+#education {
+  color: #006064;
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+#experience {
+  background-color: #2F9296;
+  color: #DFF5F2;
+}
+
+#skills {
+  text-align: center;
+  background-color: #DFF5F2;
+}
+
+#gitRepository {
+  color: #006064;
+  text-align: left;
+  background-color: #DFF5F2;
+}
+
+#contact {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 100px;
+  padding-bottom: 200px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+  height: 6rem;
+  width: 100%;
+  background-color:#2F9296;
+  
+}
+
+.english {
+  color:#87DFD6;
+}
+
+.navbar-style{
+  background-color:#2F9296;
+
+}
+
+.nav-style {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+
+.nav-link{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+}
+
+.container-style {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.container-skills {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+.title-style{
+  font-weight: bold;
+  color: #006064;
+}
+
+.subtitle-style{
+  font-family: 'Montserrat', sans-serif;
+  height: 1.5;
+  color: #006064;
+}
+
+.profile-img {
+  height: 15rem;
+  width: 15rem;
+ 
+}
+
+.margin-bottom {
+  margin-bottom:1.5rem;
+}
+
+.a-style {
+  color: #46B7B9;
+  text-decoration: none;
+}
+
+.a-style:hover {
+  color: #87DFD6;
+}
+
+.skills-style {
+  background-color:#46B7B9 ;
+  padding-left: 200px;
+}
+
+.skill-icon{
+  color:#006064;
+}
+
+/* .skill-icon:hover {
+  color:#46B7B9;
+} */
+
+.git-icon{
+  color:#006064;
+}
+
+.git-icon:hover {
+  color:#46B7B9;
+}
+
+.experience-text {
+  color: #DFF5F2;
+}
+
+.hobbies-text {
+  color: #006064;
+}
+
+.contact-strong {
+  color: #006064;
+}
+
+.footer-style {
+  padding-left: 200px;
+  padding-right: 200px;
+  padding-top: 35px;
+
+}
+ 
+.in-icon {
+  color:#006064;
+  padding: 0% 0% 0% 5%;
+}
+
+.in-icon:hover {
+  color:#46B7B9;
+ 
+}
+
