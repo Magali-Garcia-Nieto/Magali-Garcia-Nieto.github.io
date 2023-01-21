@@ -6,10 +6,8 @@ const skillsContent = [
         softTitle:"Soft Skills",
         softSkillsp : "Proactivity ‧ Teamwork ‧ Order and organization ‧ Attention to details",
         englishTitle: "English",
-        readingWritingp1 : "Reading and writing: ",
-        readingWritingp2 : "Advanced",
-        oralp1 : "Oral: ",
-        oralp2 : "Intermediate"
+        englishTitle: "English",
+        englishLevel : "C2 Proficient",
     },
     {
         key:"es",
@@ -18,10 +16,8 @@ const skillsContent = [
         softTitle:"Habilidades blandas",
         softSkillsp : "Proactividad ‧ Trabajo en equipo ‧ Orden y organización ‧ Atención a los detalles",
         englishTitle: "Inglés",
-        readingWritingp1 : "Lectura y escritura: ",
-        readingWritingp2 : "Avanzado",
-        oralp1 : "Oral: ",
-        oralp2 : "Intermedio"
+        englishTitle: "Inglés",
+        englishLevel : "C2 Competente",
     }
 ];
 

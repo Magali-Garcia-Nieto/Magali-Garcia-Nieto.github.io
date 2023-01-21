@@ -67,9 +67,8 @@ function Home () {
                         softSkillsp = {skillsItem.softSkillsp}
                         englishTitle = {skillsItem.englishTitle}
                         readingWritingp1 = {skillsItem.readingWritingp1}
-                        readingWritingp2 = {skillsItem.readingWritingp2}
-                        oralp1 = {skillsItem.oralp1}
-                        oralp2 = {skillsItem.oralp2}
+                        englishLevel = {skillsItem.englishLevel}
+
                     />
                 </section>
 

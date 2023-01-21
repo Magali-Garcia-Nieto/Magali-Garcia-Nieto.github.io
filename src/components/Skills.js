@@ -37,12 +37,12 @@ function Skills (props) {
                     <p> {props.softSkillsp}</p>
                 </Col>
                 <Col sm={12} md={12} lg={3} >
-                    <FontAwesomeIcon icon={faComment} className="fa-6x skill-icon"/>
+                    <a style={{color:"#006064"}} href="https://www.efset.org/cert/By5zpN"><FontAwesomeIcon icon={faComment} className="fa-6x git-icon"/></a>
                     <div className='margin-bottom'></div>
                     <h3 style={{color:"#006064"}}>{props.englishTitle}</h3>
                     <div className='margin-bottom'></div>
-                        <p> <strong>{props.readingWritingp1}</strong> {props.readingWritingp2}</p> 
-                        <p> <strong>{props.oralp1}</strong>{props.oralp2}</p>
+                    <p><strong>{props.englishLevel}</strong></p>
+                    <a class="a-style" href="https://www.efset.org/cert/By5zpN"> 80/100<br></br>EF Standard English Test <br></br>(EF SET) - 2023</a>
                 </Col>
             </Row>
         </Container>
